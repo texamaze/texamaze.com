@@ -6568,4 +6568,26 @@ h6 {
   font-size: 12px;
 }
 
+body {
+
+}
+.expand-collapse {
+  max-width: 300px;
+  margin: 0 auto;
+}
+.expand-collapse p {
+  padding: 5px;
+  margin: 0;
+}
+.expand-collapse div {
+  padding: 0;
+  margin: -2px 0 0 0;
+}
+.expand-collapse h3 {
+  cursor:  pointer;
+  padding: 5px;
+  margin: 0 0 2px;
+}
+
+
 /*# sourceMappingURL=style.css.map */
